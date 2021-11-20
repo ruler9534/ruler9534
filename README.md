@@ -1,7 +1,4 @@
 ![sky](https://user-images.githubusercontent.com/19742969/142717283-6c4f0677-1e33-4e36-9a48-f361b3c998d0.jpg)
-![3](https://user-images.githubusercontent.com/19742969/142717579-3e2e17c6-ca40-4ea3-9978-0da841f2565a.jpg)
-
-
 ## **Hi,I'm 唐风(ruler9534)  ​:deciduous_tree:​**
 - :label: **C++/Python/PHP**
 - :crossed_swords: **Intent:** Penetration test,Vulnerability research
