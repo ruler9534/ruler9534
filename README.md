@@ -7,7 +7,7 @@
 - :e-mail: **Email:** Clarkeli1125@gmail.com
 - :heart:**Interest:** Coding,Painting,Sports,and Beauty
 -  :battery: **Stay hungry，Stay foolish**
-- :facepunch: To be myself,Security researcher on the way,learning from Da Vinci.Have a good fun in my life.
+- :facepunch: To be myself,Security researcher on the way,learning from Da Vinci.Enjoy life,enjoy exploring.
 
 ---
 
