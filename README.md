@@ -9,7 +9,7 @@
 - :facepunch: To be myself,Security researcher on the way,learning from Da Vinci.Enjoy life,enjoy exploring.
 ---
   [![ruler9534's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruler9534)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruler9534&repo=github-readme-stats)](https://github.com/ruler9534/github-readme-stats)
 
 
 
